@@ -1,0 +1,7 @@
+name = "ODESolver"
+uuid = "18293170-c66b-11e9-00e8-8b0ab5f1dc95"
+authors = ["Jan-Luca Klees <email@janlucaklees.de>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
